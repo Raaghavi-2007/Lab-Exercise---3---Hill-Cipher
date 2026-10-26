@@ -1,21 +1,15 @@
 # Lab-Exercise---3---Hill-Cipher
 
-# Hill Cipher:
-  Hill Cipher using with different key.
-  
+
 # Aim:
   To develop a simple C program to implement Hill Cipher.
   
 # Procedure:
 
-Step 1: 
-Design of Hill Cipher 
-
-Step 2:
-Implementation using C or pyhton 
-
-Step 3:
-Testing algorithm with different key values. 
+1. Design of Hill Cipher algorithm using matrix multiplication and modular arithmetic.
+2. Implementation using C or python programming.
+3. Testing algorithm with different key matrices and plaintext inputs.
+4. Apply the Hill Cipher using different key values and verify the corresponding encrypted outputs. 
 
 # Program:
 ```
